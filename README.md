@@ -1,4 +1,4 @@
-# brightcore_www
+# britecore_www
 
 ## Project setup
 ```
